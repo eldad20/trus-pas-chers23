@@ -1,1 +1,1 @@
-# trus-pas-chers23
+npx @tailwindcss/cli -i ./assets/input.css -o ./assets/style.css --watch
